@@ -16,7 +16,7 @@
 
 INDICE : On doit donner à notre élément un attribute target avec la valeur \_blank pour ouvrir notre lien dans un nouvel onglet
 
-8. L'#image doit utiliser les propriétés max-width et height pour se redimensionner de manière responsive
+8. L'#image doit utiliser les propriétés max-width pour se redimensionner de manière responsive
 
 9. L'élément img doit être centré dans l'élément parent
 
