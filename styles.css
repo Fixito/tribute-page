@@ -139,6 +139,7 @@ li {
   object-fit: cover;
   margin: 0 auto;
   margin-bottom: 1rem;
+  border-radius: var(--border-radius);
 }
 
 #main {
