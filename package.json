@@ -1,0 +1,30 @@
+{
+  "name": "tribute-page",
+  "version": "1.0.0",
+  "description": "## User Stories:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fixito/tribute-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fixito/tribute-page/issues"
+  },
+  "homepage": "https://github.com/Fixito/tribute-page#readme",
+  "devDependencies": {
+    "@babel/core": "^7.18.0",
+    "@babel/preset-env": "^7.18.0",
+    "@testing-library/dom": "^8.13.0",
+    "@testing-library/jest-dom": "^5.16.4",
+    "babel-jest": "^28.1.0",
+    "jest": "^28.1.0",
+    "jest-dom": "^4.0.0",
+    "jsdom": "^19.0.0"
+  }
+}
